@@ -1,0 +1,52 @@
+.title_otter
+{
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 5%;
+}
+h1
+{
+    text-align: center;
+    border: blue solid 5px;
+    border-radius: 30px;
+    font-family: Comic Sans MS;
+    font-size: 90px;
+    
+}
+h2
+{
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: lightblue;
+    font-size: x-large;
+}
+.text
+{
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+    background: violet;
+
+}
+
+.assembly
+{
+    display: flex;
+}
+
+.card-body
+{
+    background-color: lightblue;
+}
+
+.center
+{
+    border: blue solid 10px;
+    border-radius: 20px;
+    font-family: Comic Sans MS;
+    font-size: large;
+}
